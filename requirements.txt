@@ -1,4 +1,3 @@
-streamlit
-st_on_hover_tabs
+streamlit-on-Hover-tabs
 pandas
 numpy
