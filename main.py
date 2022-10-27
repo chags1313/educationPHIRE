@@ -9,5 +9,5 @@ st.markdown('<style>' + open('./style.css').read() + '</style>', unsafe_allow_ht
 
 with st.sidebar:
     
-    tabs = on_hover_tabs(tabName=['Introduction to HAR', 'HAR Data'], 
+    tabs = on_hover_tabs(tabName=['Introduction to HAR', 'Working With HAR Data'], 
                          iconName=['dashboard', 'money'], default_choice=0)
