@@ -12,25 +12,25 @@ with st.sidebar:
                          iconName=['apps', 'looks_one', 'looks_two', 'looks_3', 'looks_4', 'looks_5'], default_choice=0)
 if tabs == 0:
     ## background information on human activity recogntion
-    pass
+    st.header("📙 Background")
 if tabs == 1:
     ## lesson 1: intro
     ## provide introductory information on using python for human activity recognition
     ## provide resource for trying HAR without coding (i.e. teachablemachine.com pose analysis)
-    pass
+    st.header("📝 1. Introduction into Human Activity Recogntion")
 if tabs == 2:
     ## lesson 2: data
     ## detailed lesson using python, pandas, and numpy to work with data
-    pass
+    st.header("📊 2. Human Movement Data")
 if tabs == 3:
     ## lesson 3: vis
     ## detailed lesson on how to use plotly to visualize data (HAR data)
-    pass
+    st.header("📈 3. Visualization of Human Activity Data")
 if tabs == 4:
     # lesson 4: ml
     ## detailed lesson on how to apply basic machine learning techniques
-    pass
+    st.header("🧠 4. Using Machine Learning to Predict Human Activity")
 if tabs == 5:
     #lesson 5: apps
     ## detailed lesson on how to build web apps to apply ML models and visualize data
-    pass
+    st.header("💻 5. Building Web Applications for Human Activity Recognition")
