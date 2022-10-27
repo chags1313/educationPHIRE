@@ -30,7 +30,7 @@ if tabs == 'Lesson 1: Intro':
 if tabs == 'Lesson 2: Data':
     ## lesson 2: data
     ## detailed lesson using python, pandas, and numpy to work with data
-    st.header("📊 2. Human Movement Data")
+    st.header("📊 2. Data Analysis with Human Movement Data")
     st.markdown('Aditi enter text here!!')
 
 
