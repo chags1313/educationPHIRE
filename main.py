@@ -24,7 +24,7 @@ if tabs == 'Lesson 1: Intro':
     ## provide introductory information on using python for human activity recognition
     ## provide resource for trying HAR without coding (i.e. teachablemachine.com pose analysis)
     st.header("📝 1. Introduction into Human Activity Recogntion")
-    st.markdown('Aditi enter text here!!')
+    st.markdown('here')
 
 
 if tabs == 'Lesson 2: Data':
