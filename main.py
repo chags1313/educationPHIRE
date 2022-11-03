@@ -29,7 +29,8 @@ if tabs == 'Lesson 1: Intro':
     ## provide introductory information on using python for human activity recognition
     ## provide resource for trying HAR without coding (i.e. teachablemachine.com pose analysis)
     st.header("📝 1. Introduction into Human Activity Recogntion")
-    st.markdown('HAR is the study that deals with identifying the specific movement or action of a person based on sensor data.')
+    st.markdown('HAR is the study that deals with identifying the specific movement or action of a person based on sensor data.') 
+    st.image('https://cdn-images-1.medium.com/max/1600/1*9L__QC49eKx-MtwFw4f8Mg.png')
 
 
 if tabs == 'Lesson 2: Data':
