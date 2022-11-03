@@ -2,7 +2,8 @@ import streamlit as st
 from st_on_hover_tabs import on_hover_tabs
 
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide",page_title="PHIRE lab education",
+        page_icon="chart_with_upwards_trend")
 
 st.markdown('<style>' + open('./style.css').read() + '</style>', unsafe_allow_html=True)
 
