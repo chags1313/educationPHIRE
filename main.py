@@ -18,7 +18,9 @@ if tabs == 'Background':
     st.header("📙 Background")
     st.markdown("""
     The Personal Health Informatics Lab (PHIRE) is a research laboratory at Temple Unversity aiming to understand
-    people's quality of life needs and seemlessly assist through science and technology""")
+    people's quality of life needs and seemlessly assist through science and technology.
+    This course aims to help students and researchers build the skills to help people through technology and specifically learn
+    skills relevant to human activity recognition.""")
     st.image("https://sites.temple.edu/phire/files/2016/03/img002_600DPI-e1528386598899.jpg")
 
 
