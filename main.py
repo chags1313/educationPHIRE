@@ -38,7 +38,8 @@ if tabs == 'Lesson 2: Data':
     ## lesson 2: data
     ## detailed lesson using python, pandas, and numpy to work with data
     st.header("📊 2. Data Analysis with Human Movement Data")
-    st.markdown('Aditi enter text here!!')
+    st.markdown('Data can be collected using smartphones.Activites include: Walking, Running, Cycling and Standing')
+    st.image('https://machinelearningmastery.com/wp-content/uploads/2018/09/Histograms-of-the-body-gyroscope-data-by-activity.png')
 
 
 if tabs == 'Lesson 3: Vis':
@@ -46,6 +47,7 @@ if tabs == 'Lesson 3: Vis':
     ## detailed lesson on how to use plotly to visualize data (HAR data)
     st.header("📈 3. Visualization of Human Activity Data")
     st.markdown('Aditi enter text here!!')
+    st.image('image')
 
 
 if tabs == 'Lesson 4: ML':
@@ -53,6 +55,7 @@ if tabs == 'Lesson 4: ML':
     ## detailed lesson on how to apply basic machine learning techniques
     st.header("🧠 4. Using Machine Learning to Predict Human Activity")
     st.markdown('Aditi enter text here!!')
+    st.image('image')
 
 
 if tabs == 'Lesson 5: Apps':
@@ -60,3 +63,4 @@ if tabs == 'Lesson 5: Apps':
     ## detailed lesson on how to build web apps to apply ML models and visualize data
     st.header("💻 5. Building Web Applications for Human Activity Recognition")
     st.markdown('Aditi enter text here!!')
+    st.image('image')
