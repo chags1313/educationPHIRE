@@ -46,8 +46,9 @@ if tabs == 'Lesson 3: Vis':
     ## lesson 3: vis
     ## detailed lesson on how to use plotly to visualize data (HAR data)
     st.header("📈 3. Visualization of Human Activity Data")
-    st.markdown('Aditi enter text here!!')
-    st.image('image')
+    st.markdown('Plotly is a open source module of Python which is used for Data visualization and support various types of graph.')
+    st.image('https://www.statworx.com/wp-content/uploads/plotly-structure-chart-infographik-1024x576.png')
+    st.image('https://pbpython.com/images/plotly_header_image.png')
 
 
 if tabs == 'Lesson 4: ML':
