@@ -55,7 +55,8 @@ if tabs == 'Lesson 4: ML':
     # lesson 4: ml
     ## detailed lesson on how to apply basic machine learning techniques
     st.header("🧠 4. Using Machine Learning to Predict Human Activity")
-    st.markdown('Aditi enter text here!!')
+    st.markdown(', metrics like Accuracy, Confusion matrix, precision and recall are used to evaluate the performance of the Machine Learning and deep learning models')
+            ')
     st.image('image')
 
 
