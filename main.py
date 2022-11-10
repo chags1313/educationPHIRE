@@ -72,6 +72,6 @@ if tabs == 'Lesson 5: Apps':
     - 4.Traning the model. 
     - 5.Evaluating the model. 
     - 6.Parameter tuning. 
-    - 7.making predictions')
-    """
+    - 7.making predictions'
+    """)
     st.image('https://dezyre.gumlet.io/images/blog/Top+10+Machine+Learning+Projects+for+Beginners/Retail+Price+Optimization+Machine+Learning+Project.png?w=360&dpr=2.6')
