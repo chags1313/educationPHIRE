@@ -55,9 +55,10 @@ if tabs == 'Lesson 4: ML':
     # lesson 4: ml
     ## detailed lesson on how to apply basic machine learning techniques
     st.header("🧠 4. Using Machine Learning to Predict Human Activity")
-    st.markdown(', metrics like Accuracy, Confusion matrix, precision and recall are used to evaluate the performance of the Machine Learning and deep learning models')
-            ')
-    st.image('image')
+    st.markdown('Metrics like accuracy, confusion matrix and precision are used to evalute the precision of machine learning')
+    st.image('https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/Example-Confusion-matrix.png')
+            
+  
 
 
 if tabs == 'Lesson 5: Apps':
