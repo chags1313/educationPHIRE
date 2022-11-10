@@ -65,5 +65,13 @@ if tabs == 'Lesson 5: Apps':
     #lesson 5: apps
     ## detailed lesson on how to build web apps to apply ML models and visualize data
     st.header("💻 5. Building Web Applications for Human Activity Recognition")
-    st.markdown('1. Collecting Data. 2.Preparing the Data 3. Choosing a Model. 4.Traning the model. 5.Evaluating the model. 6.Parameter tuning. 7.making predictions')
+    st.markdown("""
+    - 1. Collecting Data. 
+    - 2.Preparing the Data 
+    - 3. Choosing a Model. 
+    - 4.Traning the model. 
+    - 5.Evaluating the model. 
+    - 6.Parameter tuning. 
+    - 7.making predictions')
+    """
     st.image('https://dezyre.gumlet.io/images/blog/Top+10+Machine+Learning+Projects+for+Beginners/Retail+Price+Optimization+Machine+Learning+Project.png?w=360&dpr=2.6')
