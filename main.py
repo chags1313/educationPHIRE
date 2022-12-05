@@ -38,7 +38,7 @@ if tabs == 'Lesson 2: Data':
     ## lesson 2: data
     ## detailed lesson using python, pandas, and numpy to work with data
     st.header("📊 2. Data Analysis with Human Movement Data")
-    st.markdown('Data can be collected using smartphones.Activites include: Walking, Running, Cycling and Standing')
+    st.markdown('Python is a high level language and one of the most used languages by data scientist for doing various projects and making applications.It has a lot of benefits such as: easy to access and has a very large standard library. The interactive mode of python makes it simple for test codes especially for beginners.')
     st.image('https://machinelearningmastery.com/wp-content/uploads/2018/09/Histograms-of-the-body-gyroscope-data-by-activity.png')
 
 
