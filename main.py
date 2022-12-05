@@ -30,7 +30,7 @@ if tabs == 'Lesson 1: Intro':
     ## provide introductory information on using python for human activity recognition
     ## provide resource for trying HAR without coding (i.e. teachablemachine.com pose analysis)
     st.header("📝 1. Introduction into Human Activity Recogntion")
-    st.markdown('HAR is the study that deals with identifying the specific movement or action of a person based on sensor data.') 
+    st.markdown('The term human recognition means to interpret a human bodys ability to move into action through sensors.The human recognition system is often used in the health care system.It main purpose remains to monitor the activity of older people for chronic disease management.') 
     st.image('https://cdn-images-1.medium.com/max/1600/1*9L__QC49eKx-MtwFw4f8Mg.png')
 
 
